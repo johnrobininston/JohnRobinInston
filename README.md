@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohnRobinInston
-- 👀 I’m interested in mathematics, statistics, finance, environmental science, data science and coding.
-- 🌱 I’m currently learning R, Python and MatLab, specifically for use as a tool for analysing and modelling financial data.
-- 💞️ I’m looking to collaborate on any projects related to the above topics but have limited time as a result of my studies.
+- 👀 I’m a PhD Student in Statisticss and Applied Probability at UC Santa Barbara researching topics in machine learning and quantitative finance.
+- 🌱 Welcome to my GitHub page where I store information about my completed and ongoing project work.
+- 💞️ I am always looking to discuss or collaborate on interesting research projects.
 - 📫 Feel free to contact me!
 
 <!---
